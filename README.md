@@ -10,3 +10,4 @@ Technologies used:
 Node, Inquirer and fs
 
 Creator: Emily Reese
+<img width="1680" alt="Screen Shot 2022-04-10 at 4 32 54 PM" src="https://user-images.githubusercontent.com/87937862/162639219-0e555b1d-2f06-4fb8-aad5-232c76104a6d.png">
